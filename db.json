@@ -1,0 +1,830 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Pomeranian White",
+      "src": "../src/assets/images/@temp_pets/pomeranian_white.jpg",
+      "code": "MO231",
+      "price": 6900000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "medium",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+
+      "puppies": "pomeranian"
+    },
+    {
+      "id": 2,
+      "name": "Poodle Tiny Yellow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_yellow.jpg",
+      "code": "MO502",
+      "price": 3900000,
+      "genre": "Female",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "female",
+        "age": "2 Months",
+        "size": "Large",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 3,
+      "name": "Poodle Tiny Sepia",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_sepia.jpg",
+      "code": "MO102",
+      "price": 4000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 4,
+      "name": "Alaska Malamute Grey",
+      "src": "../src/assets/images/@temp_pets/alaskan_malamute_grey.jpg",
+      "code": "MO512",
+      "price": 8900000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "alaskan malamute"
+    },
+    {
+      "id": 5,
+      "name": "Pembroke Corgi Cream",
+      "src": "../src/assets/images/@temp_pets/pembroke_corgi_cream.jpg",
+      "code": "MO231",
+      "price": 7900000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "pembroke"
+    },
+    {
+      "id": 6,
+      "name": "Pembroke Corgi Tricolor",
+      "src": "../src/assets/images/@temp_pets/pembroke_corgi_tricolor.jpg",
+      "code": "MO502",
+      "price": 9000000,
+      "genre": "Female",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "female",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "pembroke"
+    },
+    {
+      "id": 7,
+      "name": "Pomeranian White",
+      "src": "../src/assets/images/@temp_pets/pomeranian_white_grey.jpg",
+      "code": "MO231",
+      "price": 6500000,
+      "genre": "Female",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "female",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "pembroke"
+    },
+    {
+      "id": 8,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": true,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 9,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 10,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 11,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 12,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 13,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 14,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 15,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 16,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 17,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 18,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 19,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    },
+    {
+      "id": 20,
+      "name": "Poodle Tiny Dairy Cow",
+      "src": "../src/assets/images/@temp_pets/poodle_tiny_dairy_cow.jpg",
+      "code": "MO512",
+      "price": 5000000,
+      "genre": "Male",
+      "dateOfBirth": "05-01-2023",
+      "new": false,
+      "detail": {
+        "SKU": "#1000078",
+        "gender": "male",
+        "age": "2 Months",
+        "size": "small",
+        "color": "Appricot & Tan",
+        "vaccinated": true,
+        "dewormed": true,
+        "cert": "MKA",
+        "microchip": true,
+        "location": "Vietnam",
+        "published": "12-Oct-2022",
+        "information": "<p>Pure breed Shih Tzu.<br> Good body structure.<br> With MKA cert and Microchip.<br> Father from champion lineage.</p>"
+      },
+      "thumb": [
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png",
+        "../src/assets/images/@temp_detail/img_detail01.png",
+        "../src/assets/images/@temp_detail/img_detail02.png",
+        "../src/assets/images/@temp_detail/img_detail03.png",
+        "../src/assets/images/@temp_detail/img_detail04.png"
+      ],
+
+      "puppies": "poodle"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Reflex Plus Adult Cat Food Salmon",
+      "img": "src/assets/images/@temp_products/zealand-a.jpg",
+      "category": "Dog Food",
+      "size": "385gm",
+      "price": 140000,
+      "promotion": "Free Toy & Free Shaker"
+    },
+    {
+      "id": 2,
+      "name": "Reflex Plus Adult Cat Food Salmon",
+      "img": "src/assets/images/@temp_products/reflex_plus_adult_cat_food_salmon.jpg",
+      "category": "Dog Food",
+      "size": "1.5kg",
+      "price": 165000,
+      "promotion": "Free Toy & Free Shaker"
+    },
+    {
+      "id": 3,
+      "name": "Cat scratching ball toy kitten sisal rope ball",
+      "img": "src/assets/images/@temp_products/cat_scratching_ball_toy_kitten_sisal_rope_ball.jpg",
+      "category": "Toy",
+      "price": 1100000,
+      "promotion": "Free Cat Food"
+    },
+    {
+      "id": 4,
+      "name": "Cute Pet Cat Warm Nest",
+      "img": "src/assets/images/@temp_products/cute_pet_cat_warm_nest.jpg",
+      "category": "Toy",
+      "price": 410000,
+      "promotion": "Free Cat Food"
+    },
+    {
+      "id": 5,
+      "name": "NaturVet Dogs - Omega-Gold Plus Salmon Oil",
+      "img": "src/assets/images/@temp_products/naturVet_dogs-omega-gold_plus_salmon_oil.jpg",
+      "category": "Dog Food",
+      "size": "385gm",
+      "price": 350000,
+      "promotion": "Free Toy & Free Shaker"
+    },
+    {
+      "id": 6,
+      "name": "Costumes Fashion Pet Clother Cowboy Rider",
+      "img": "src/assets/images/@temp_products/costumes_fashion_pet_clother_cowboy_rider.jpg",
+      "category": "Costume",
+      "size": "1.5kg",
+      "price": 500000,
+      "promotion": "Free Toy & Free Shaker"
+    },
+    {
+      "id": 7,
+      "name": "Costumes Chicken Drumsti ck Headband",
+      "img": "src/assets/images/@temp_products/costumes_chicken_drumsti_ck_headband.jpg",
+      "category": "Costume",
+      "price": 400000,
+      "promotion": "Free Cat Food"
+    },
+    {
+      "id": 8,
+      "name": "Plush Pet Toy",
+      "img": "src/assets/images/@temp_products/plush_pet_toy.jpg",
+      "category": "Toy",
+      "price": 250000,
+      "promotion": "Free Food & Shaker"
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "tag": "Pet knowledge",
+      "thumb": "src/assets/images/@temp_blogs/what_is_a_omeranian.jpg",
+      "title": "What is a Pomeranian? How to Identify Pomeranian Dogs",
+      "desc": "The Pomeranian, also known as the Pomeranian (Pom dog), is always in the top of the cutest pets. Not only that, the small, lovely, smart, friendly, and skillful circus dog breed."
+    },
+    {
+      "id": 2,
+      "tag": "Pet knowledge",
+      "thumb": "src/assets/images/@temp_blogs/dog_diet_you_need_to_know.jpg",
+      "title": "Dog Diet You Need To Know",
+      "desc": "Dividing a dog's diet may seem simple at first, but there are some rules you should know so that your dog can easily absorb the nutrients in the diet. For those who are just starting to raise dogs, especially newborn puppies with relatively weak resistance."
+    },
+    {
+      "id": 3,
+      "tag": "Pet knowledge",
+      "thumb": "src/assets/images/@temp_blogs/why_dogs_bite_and_destroy_furniture.jpg",
+      "title": "Why Dogs Bite and Destroy Furniture and How to Prevent It Effectively",
+      "desc": "Dog bites are common during development. However, no one wants to see their furniture or important items being bitten by a dog."
+    }
+  ],
+  
+  "customers": [
+    "../src/assets/images/@temp_detail/img_customer01.png",
+    "../src/assets/images/@temp_detail/img_customer02.png",
+    "../src/assets/images/@temp_detail/img_customer03.png",
+    "../src/assets/images/@temp_detail/img_customer04.png",
+    "../src/assets/images/@temp_detail/img_customer01.png",
+    "../src/assets/images/@temp_detail/img_customer02.png",
+    "../src/assets/images/@temp_detail/img_customer03.png",
+    "../src/assets/images/@temp_detail/img_customer04.png"
+  ]
+}
